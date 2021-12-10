@@ -1,1 +1,4 @@
-New File.
+1) Googling local Pizza places
+2) Decide which one to order from
+3) Call the establishment
+4) Place our order
